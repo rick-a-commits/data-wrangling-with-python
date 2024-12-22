@@ -1,2 +1,2 @@
 # data-wrangling-with-python
-In this notebook, I implemented a data wrangling process as part of a data science course. 
+In this notebook, I implemented a data wrangling process as part of a data science course. This process involved, filling in missing values with the mean of numerical data or the mode of descriptive data. I also transformed data to useful formats, binned other variables, standardized data, created indicator(dummy) variables, and finally normalized data by scaling variables to enable easy comparison. 
